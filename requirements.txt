@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+requests
+pytesseract
+pdf2image
